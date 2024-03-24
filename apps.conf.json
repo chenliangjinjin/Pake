@@ -1,10 +1,10 @@
- {
-“应用程序” : [
- {
-“名称” : &#34;Star chat&#34; ,
-“标题” : &#34;Star chat&#34; ,
-“名称_ zh” : &#34;Star chat&#34; ,
-“url” :&#34;https://im.uerr.cn/&#34;
- }
- ]
- }
+{
+  "apps": [
+    {
+      "name": "星聊",
+      "title": "星聊",
+      "name_zh": "星聊",
+      "url": "https://im.uerr.cn/"
+    }
+  ]
+}
